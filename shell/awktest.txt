@@ -1,0 +1,10 @@
+if [ -d "$dir" ]
+then
+echo "Directory exists"
+else
+`mkdir $dir`
+echo "Directory created"
+fi
+valid=true
+count=1
+

@@ -1,0 +1,7 @@
+S_NO Name sal 
+*************** 
+0 gehna 75000 
+1 kiwi 90000
+2 cherry 75000
+3 sheela 35000
+4 venkat 40000

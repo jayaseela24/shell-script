@@ -1,0 +1,20 @@
+echo -n "Enter directory name ->"
+read dir
+if [ -d "$dir" ]
+then
+echo "Directory exists"
+else
+`mkdir $dir`
+echo "Directory created"
+fi
+valid=true
+count=1
+while [ $valid ]
+do
+echo $count
+if [ $count -eq 5 ];
+then
+break
+fi
+((count++))
+done

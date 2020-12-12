@@ -1,0 +1,3 @@
+Server_IP,UserName,UserPasswd,cmd1,cmd2
+172.31.22.45,kiwi,1234,date,uptime
+172.31.22.4,root,1234,whoami,date

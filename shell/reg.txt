@@ -1,0 +1,24 @@
+This is a text file
+This is a put data
+this is also a pot data
+This is a pit format
+This is a pot asdf
+asdf asdfasdf
+this is only pt
+This is a line
+thi
+This
+Thiss
+Thisss
+Thissssasdf
+This is a one more line
+" * \t  \?
+"	*	\t	\?
+	this 	is	a	tab	line
+This is a put data ^
+this is a pot format $
+. * + \t \?
+this isaput
+Thi
+put
+This is put
