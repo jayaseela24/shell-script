@@ -1,0 +1,2 @@
+3.138.67.237 server1 1234 date
+18.217.60.150 server2 1234  whoami 
